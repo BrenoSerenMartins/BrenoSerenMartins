@@ -3,7 +3,7 @@
 </div>
 
 <p align='center'>
-  <a href="https://www.linkedin.com/in/brenoseren"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true">
+  <a href="https://www.linkedin.com/in/brenoserenmartins/"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true">
    </a>
  </p>
 
