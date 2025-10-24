@@ -8,14 +8,8 @@
  </p>
 
 <div align="center">
-<h3>Breno Seren Martins | Backend Developer | PT/EN | Brazil  </h3>
+<h3>Backend Developer | PT/EN | Brazil  </h3>
 </div>
-
-<p align="center">
-  Learning 👉 Laravel, React and C#
-  </br>
-  Connect 👉 <a href=mailto:brenosm.dev@gmail.com>brenosm.dev@gmail.com</a>
-</p>
  
 <!--  
  <p align="center">
@@ -28,7 +22,12 @@
 <a href="https://github.com/anuraghazra/github-readme-stats"> 
     <img  src="https://github-readme-stats.vercel.app/api?username=BrenoSerenMartins&&show_icons=true&theme=dracula"/>
   </a>
+</p>
 
+<p align="center">
+  Learning 👉 Laravel, React and C#
+  </br>
+  Connect 👉 <a href=mailto:brenosm.dev@gmail.com>brenosm.dev@gmail.com</a>
 </p>
 
 <br />
