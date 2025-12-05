@@ -8,7 +8,7 @@
  </p>
 
 <div align="center">
-<h3>Backend Developer | PT/EN | Brazil  </h3>
+<h3>FullStack Developer | PT/EN | Brazil  </h3>
 </div>
  
 <!--  
