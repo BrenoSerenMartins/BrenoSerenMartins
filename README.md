@@ -56,15 +56,6 @@
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BrenoSerenMartins&theme=dracula" alt="Breno's GitHub Profile Summary" />
 </div>
-<br>
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BrenoSerenMartins&theme=dracula" alt="Top Languages by Repo" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=BrenoSerenMartins&theme=dracula" alt="GitHub Stats" />
-</div>
-<br>
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BrenoSerenMartins&theme=dracula&hide_border=true&background=0D1117" alt="GitHub Streak" />
-</div>
 
 ---
 
