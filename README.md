@@ -54,7 +54,7 @@
 ### 📊 GitHub Metrics & Stats
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=BrenoSerenMartins&theme=dracula&utcOffset=-3" alt="Breno's Productive Time" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BrenoSerenMartins&theme=dracula&hide_border=true&background=0D1117" alt="GitHub Streak" />
 </div>
 
 ---
