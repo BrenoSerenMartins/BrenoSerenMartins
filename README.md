@@ -54,7 +54,7 @@
 ### 📊 GitHub Metrics & Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BrenoSerenMartins&theme=dracula&hide_border=true&background=0D1117" alt="GitHub Streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BrenoSerenMartins&theme=dracula" alt="Breno's GitHub Profile Summary" />
 </div>
 
 ---
