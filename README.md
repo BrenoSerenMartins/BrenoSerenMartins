@@ -45,7 +45,7 @@
 ### 🏆 GitHub Trophies
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-trophies.vercel.app/?username=BrenoSerenMartins&theme=dracula&margin-w=15&margin-h=15&no-frame=true&no-bg=true" alt="Breno's Trophies" />
+    <img src="https://github-trophies.vercel.app/?username=BrenoSerenMartins&theme=dracula&margin-w=15&margin-h=15&no-frame=true&no-bg=true&column=4&title=MultiLanguage,LongTimeUser,NewUser,Commits,Stars,Followers,PullRequest,Repositories" alt="Breno's Trophies" />
   </a>
 </div>
 
