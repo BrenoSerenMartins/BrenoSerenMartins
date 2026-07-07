@@ -45,7 +45,7 @@
 ### 🏆 GitHub Trophies
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=BrenoSerenMartins&theme=dracula&margin-w=15&margin-h=15&no-frame=true&no-bg=true" alt="Breno's Trophies" />
+    <img src="https://github-trophies.vercel.app/?username=BrenoSerenMartins&theme=dracula&margin-w=15&margin-h=15&no-frame=true&no-bg=true" alt="Breno's Trophies" />
   </a>
 </div>
 
@@ -54,8 +54,12 @@
 ### 📊 GitHub Metrics & Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BrenoSerenMartins&show_icons=true&theme=dracula&hide_border=true&bg_color=0D1117" alt="Breno's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrenoSerenMartins&layout=compact&theme=dracula&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BrenoSerenMartins&theme=dracula" alt="Breno's GitHub Profile Summary" />
+</div>
+<br>
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BrenoSerenMartins&theme=dracula" alt="Top Languages by Repo" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=BrenoSerenMartins&theme=dracula" alt="GitHub Stats" />
 </div>
 <br>
 <div align="center">
